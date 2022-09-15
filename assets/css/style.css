@@ -1,0 +1,32 @@
+.bg-indigo {
+    background-color: #6e0eb3;
+    color: white;
+}
+.btn-indigo {
+    background-color: #6e0eb3;
+    color: white;
+}
+.btn-outline-indigo{
+    border: solid 1px #6e0eb3;
+    color: #6e0eb3;
+    background-color: transparent;
+}
+.btn-indigo:hover {
+    border: solid 1px #6e0eb3!important;
+    color: #6e0eb3 !important;
+    background-color: transparent !important;
+}
+main{
+    margin-top: 30px !important;
+}
+.btn-outline-indigo:hover{
+    background-color: #6e0eb3 !important;
+    color: white !important;
+}
+.nav-link{
+    color: white !important;
+}
+.container h3{
+    color: white !important;
+    text-transform: uppercase;
+}
